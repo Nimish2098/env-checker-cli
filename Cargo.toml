@@ -1,0 +1,11 @@
+[package]
+name = "env-checker-cli" # Make sure this name is unique on crates.io
+version = "0.1.0"
+edition = "2024"
+authors = ["Nimish Rao <raonimish23@gmail.com>"]
+description = "A lightweight CLI tool to verify required environment variables."
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+dotenvy = "0.15"
