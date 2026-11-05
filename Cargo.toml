@@ -9,3 +9,7 @@ readme = "README.md"
 
 [dependencies]
 dotenvy = "0.15"
+
+repository = "https://github.com/Nimish2098/env-checker-cli"
+homepage = "https://github.com/Nimish2098/env-checker-cli"
+documentation = "https://docs.rs/env-checker-cli"
