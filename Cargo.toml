@@ -6,10 +6,10 @@ authors = ["Nimish Rao <raonimish23@gmail.com>"]
 description = "A lightweight CLI tool to verify required environment variables."
 license = "MIT"
 readme = "README.md"
-
-[dependencies]
-dotenvy = "0.15"
-
 repository = "https://github.com/Nimish2098/env-checker-cli"
 homepage = "https://github.com/Nimish2098/env-checker-cli"
 documentation = "https://docs.rs/env-checker-cli"
+
+
+[dependencies]
+dotenvy = "0.15"
